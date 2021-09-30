@@ -1,0 +1,15 @@
+{
+  "name": "demo-webpack-5-2021",
+  "version": "1.0.0",
+  "description": "Demo WebPack 5 (2021)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "5"
+  ],
+  "author": "YuriiTrofimenko",
+  "license": "ISC"
+}
